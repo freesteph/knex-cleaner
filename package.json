@@ -26,11 +26,11 @@
   ],
   "dependencies": {
     "bluebird": "^2.9.13",
-    "lodash": "^3.5.0"
+    "lodash": "^3.10.1"
   },
   "devDependencies": {
-    "chai": "*",
-    "chai-as-promised": "^4.3.0",
+    "chai": "^3.4.1",
+    "chai-as-promised": "^5.1.0",
     "faker": "^2.1.2",
     "knex": "^0.7.5",
     "mocha": "*",
